@@ -60,15 +60,13 @@ const location = useLocation()
 
    const forgetPassword = async () => {
     const email = emailRef.current.value;
-    
-    if(email){
       await sendPasswordResetEmail(email);
       toast ('Sent email');
 
     }
     
     
-  }
+  
    
    
     return (
