@@ -1,10 +1,13 @@
 # Hassan & CO 
 
-Your Personal Account [Hassan & CO](https://github.com/facebook/create-react-app).
+Your Personal Account [Hassan & CO](https://beautiful-chaja-2ad87b.netlify.app/).
 
-## Available Scripts
+## list of technologies I have used 
 
-In the project directory, you can run:
+* React Router
+* React Bootstrap 
+* Google Firebase Authentication 
+* react-firebase-hooks
 
 ### `npm start`
 
