@@ -20,6 +20,7 @@ const Register = () => {
       const [updateProfile, updating, updateError] = useUpdateProfile(auth);
 
 
+      
     const navigate = useNavigate()
 
     const navigateLogin = event => {
