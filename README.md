@@ -2,12 +2,15 @@
 
 Your Personal Account [Hassan & CO](https://beautiful-chaja-2ad87b.netlify.app/).
 
-## list of technologies I have used 
+
+
+## List of technologies I have used 
 
 * React Router
 * React Bootstrap 
 * Google Firebase Authentication 
 * react-firebase-hooks
+* React Toastify 
 
 ### `npm start`
 
