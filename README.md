@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Hassan & CO 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Your Personal Account [Hassan & CO](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 

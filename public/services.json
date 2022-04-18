@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Audit & Assurance",
+        "price": "10000",
+        "description": "Our expert professionals provide a range of audit services based on a strong understanding of accounting principles which is related with the Bangladesh Standards on Auditing and International Standards on Auditing.",
+        "img": "https://img.freepik.com/free-photo/businesspeople-meeting-plan-analysis-graph-company-finance-strat_74952-1347.jpg?t=st=1650294419~exp=1650295019~hmac=0df16ff58bb953a7d9798b8fe747c762acd9383d54c985d2391966e7031efa88&w=996"
+    },
+    {
+        "id": 2,
+        "name": "Tax & legal advice",
+        "price": "15000",
+        "description": "I  provide  services  of  Tax  &  Legal  advices  which  are designed  to help  our  clients  to  apply  the  most  effective  business  strategies",
+        "img": "http://smartaudit.az/taxandlegal/img/tax.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Advisory Services",
+        "price": "15000",
+        "description": " Formation, incorporation, liquidation and winding up of companies",
+        "img": "https://img.freepik.com/free-vector/financial-advice-flyer-template_82472-468.jpg?t=st=1650294537~exp=1650295137~hmac=95598da342931c5288e990d752eee232a8be95b735192c424c9578057e1e4f27&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Outsourcing-Maintaining Personal Account",
+        "price": "18000",
+        "description": "I offers business outsourcing solution that delivers a high level of confidence and professional results by focusing your business.",
+        "img": "https://i.ibb.co/cYgvQY0/OIP.jpg"
+    },
+    {
+        "id": 5,
+        "name": "internal and management audit",
+        "price": "100000",
+        "description": "A management audit is an analysis and assessment of the competencies and capabilities of a company's management to carry out corporate objectives.",
+        "img": "https://i.ibb.co/37SD2tw/R.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Business planning and project feasibility studies",
+        "price": "300000",
+        "description": "Essentially, feasibility studies are research projects, whereas business plans are projections for the future",
+        "img": "https://i.ibb.co/L8rzvFv/R.png"
+    }
+]

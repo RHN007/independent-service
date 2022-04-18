@@ -1,0 +1,17 @@
+article {
+    border: 1px solid tomato; 
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+article h1{
+    color: blue;
+}
+
+
+
+article p {
+    font-size: 20px;
+    color: gray;
+}
+
